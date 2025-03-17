@@ -74,6 +74,3 @@ cdk destroy
 - If you get permission errors, ensure your AWS CLI credentials are configured properly (`aws configure`).
 - If `cdk deploy` fails, check for missing dependencies and run `pip install -r requirements.txt`.
 - Verify that you have the necessary IAM permissions to deploy AWS resources.
-
-## License
-This project is licensed under the MIT License.
