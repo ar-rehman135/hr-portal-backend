@@ -3,8 +3,11 @@ package-lock.json
 __pycache__
 .pytest_cache
 .venv
+temp_auto_push.bat
 *.egg-info
 
 # CDK asset staging directory
 .cdk.staging
 cdk.out
+.gitignore
+temp_interactive_push.bat
